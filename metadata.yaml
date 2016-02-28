@@ -1,0 +1,30 @@
+_repo: Relativity-the-Special-and-General-Theory_5001
+contributor:
+  translator:
+    agent_name: Lawson, Robert W. (Robert William)
+    gutenberg_agent_id: '33534'
+    url: http://www.gutenberg.org/2009/agents/33534
+creator:
+  author:
+    agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Einstein
+description: See also PG#30155
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5001'
+language: en
+publication_note: Methuen & Co Ltd, 1920
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Relativity (Physics)'
+title: 'Relativity : the Special and General Theory'
+url: http://www.gutenberg.org/ebooks/5001
